@@ -36,6 +36,6 @@ XAVI CONDA
 | Titulo | Titulo 2 | Titulo 3 |
 |--------|:---------:|----------:|
 | Iker   | Ceprian  | Rodriguez |
-| Iker   | Ceprian  | Rodriguez |
+| Jordi  | Sorribes | Marot     |
 | Col 3  | esta alineada| Derecha |
 | Col 2  | esta alineada| Centro |
