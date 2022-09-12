@@ -31,3 +31,11 @@ XAVI CONDA
 [GOOGLE](http://www.google.com "Click Aqui")
 
 ![El Bicho](1527180943_971132_1527370360_noticia_normal.jpg "5 Champions")
+
+
+| Titulo | Titulo 2 | Titulo 3 |
+|--------|:---------:|----------:|
+| Iker   | Ceprian  | Rodriguez |
+| Iker   | Ceprian  | Rodriguez |
+| Col 3  | esta alineada| Derecha |
+| Col 2  | esta alineada| Centro |
