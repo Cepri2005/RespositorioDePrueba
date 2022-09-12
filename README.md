@@ -1,6 +1,6 @@
 # RespositorioDePrueba
-Primer repositorio GiftHub
-"cursiva" _cursiva_
+##Primer repositorio GiftHub
+*cursiva* _cursiva_
 *negrita* __negrita__
-_**negrita**_
+**_negrita_**
 Primer Repositorio GiftHub
