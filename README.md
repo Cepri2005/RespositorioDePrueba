@@ -14,8 +14,16 @@ Primer Repositorio GiftHub
 Lista desordenada 
 1. Paso **1**
 2. Paso **2**
- ..* Paso 1
- ..* Paso 2
+..* Paso 1
+..* Paso 2
 3. Paso **3**
 
+HUGO CALDA
 
+XAVI CONDA
+
+``<html>
+<head>
+</head>
+</html>
+``
